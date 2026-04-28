@@ -139,6 +139,7 @@ body {
 .link-box:nth-of-type(2) { animation-delay: 0.2s; }
 .link-box:nth-of-type(3) { animation-delay: 0.3s; }
 .link-box:nth-of-type(4) { animation-delay: 0.4s; }
+.link-box:nth-of-type(5) { animation-delay: 0.5s; }
 
 .link-box:hover,
 .link-box:focus-visible {
